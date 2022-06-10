@@ -1,4 +1,4 @@
-package com.apu.pothole
+package com.pothole.my
 
 import org.junit.Test
 
