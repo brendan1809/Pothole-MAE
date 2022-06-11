@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.test.services:storage:1.4.0@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ebcca340a0382fd45b2b20882398c1e9/transformed/jetified-storage-1.4.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/827d0da06ce4283d1aed9bec7196a2c7/transformed/jetified-storage-1.4.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/827d0da06ce4283d1aed9bec7196a2c7/transformed/jetified-storage-1.4.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/827d0da06ce4283d1aed9bec7196a2c7/transformed/jetified-storage-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a808c6b2f871488f20b05420a173aa52/transformed/jetified-storage-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a808c6b2f871488f20b05420a173aa52/transformed/jetified-storage-1.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a808c6b2f871488f20b05420a173aa52/transformed/jetified-storage-1.4.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

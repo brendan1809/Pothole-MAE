@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pothole.iml" filepath="$PROJECT_DIR$/.idea/modules/Pothole.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pothole.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pothole.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pothole_Malaysia.iml" filepath="$PROJECT_DIR$/.idea/modules/Pothole_Malaysia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pothole_Malaysia.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pothole_Malaysia.app.iml" />
     </modules>
   </component>
 </project>
